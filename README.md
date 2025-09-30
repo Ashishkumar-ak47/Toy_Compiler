@@ -1,7 +1,7 @@
 
 # Toy Compiler —  (C++)
 
-**Project:** Compiler Backend for Managed Runtimes — Toy Compiler (Demo)  
+**Project:** Compiler Backend for Managed Runtimes — Toy Compiler   
 **Author:** Ashish Kumar 
 **Language:** C++
 **Purpose:** Educational toy compiler that demonstrates lexical analysis, parsing (recursive descent),
