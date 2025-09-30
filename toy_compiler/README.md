@@ -1,9 +1,9 @@
 
-# Toy Compiler — IITB-ready (C++)
+# Toy Compiler —  (C++)
 
 **Project:** Compiler Backend for Managed Runtimes — Toy Compiler (Demo)  
-**Author:** Ashish Kumar — prepared for IIT Bombay IRCC Research Internship 2025
-**Language:** C++ (single-file for clarity)  
+**Author:** Ashish Kumar 
+**Language:** C++
 **Purpose:** Educational toy compiler that demonstrates lexical analysis, parsing (recursive descent),
 AST construction, a simple optimization pass (constant folding), and generation of three-address code (TAC).
 
